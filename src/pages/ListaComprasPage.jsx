@@ -53,7 +53,6 @@ export default function ListaComprasPage() {
 
   return (
     <>
-    <Navbar/>
     <section className="ekom-lista-section">
       <h2 className="section-title" style={{ marginBottom: 30 }}>Mi Lista de Compras</h2>
       <div className="ekom-lista-grid">

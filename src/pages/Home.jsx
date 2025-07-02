@@ -84,9 +84,10 @@ export default function Home() {
         </div>
         <div className="ekom-hero__imgwrap">
           <img
-            src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=600&q=80"
-            className="ekom-hero__img"
+            src="e-kom.png"
+            className=""
             alt="Hero"
+            height={300}
           />
           <div className="ekom-hero__blob" />
         </div>
